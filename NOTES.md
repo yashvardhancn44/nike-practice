@@ -1,0 +1,4 @@
+- Sliding window,
+- two-pointer technique,
+- prefix sum,
+- sorting.

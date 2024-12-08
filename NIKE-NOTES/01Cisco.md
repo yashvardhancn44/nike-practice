@@ -1,0 +1,7 @@
+- low Code ETL -> Informatica
+- Teradata Database -> for data warehouse
+  - Teradata Database provides the most flexible analytical engine in the most scalable and manageable database for your data warehouse.
+- SAP BO -> for generating reports
+- Tableu
+- Postgres
+- we had website as well, where for required business logics we used to create reports
