@@ -16,4 +16,4 @@ def insSort(arr):
       j-=1
     arr[j+1] = key # as arr[j] is already pushed earlier to arr[j+1]
   return arr
-print(insSort(arr))
+print(insSort(arr)) 
