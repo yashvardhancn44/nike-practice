@@ -1,0 +1,8 @@
+- mostly batch processing
+- Tech used
+  - Sap BO
+  - Informatica
+- project was not complete
+- transitioning from Informatica to open source data pipelines (kafka, Airflow etc)
+- Kafka producer and consumer
+- My project implementation was skewed towards Kafka.

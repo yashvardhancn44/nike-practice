@@ -93,8 +93,6 @@
 - iterative
 - recursive
 
-### VIews, Materialized Views, Triggers
-
 ### window Functions
 
 - over clause, parition by, order by
@@ -105,6 +103,26 @@
 - Frame Clause
   - Range between
   - rows between
+
+### VIews, Materialized Views, Triggers
+
+### Triggers
+
+### Stored procedures
+
+### Normalization
+
+### optimization
+
+### constraints
+
+### combination of different types of joins on mutliple tables to get the output
+
+### COMBINATION QUESTIONS INVOLVING MULTIPLE TOPICS - MODERATE/MEDIUM-DIFFICULT LEVEL WHICH IS USUALLY ASKED
+
+### COMBINATION QUESTIONS INVOLVING MULTIPLE TOPICS - DIFFICULT LEVEL WHICH IS VERY FREQUENTLY ASKED IN DATA ENGINEER INTERVIEW.
+
+### ETC IMPORTANT TOPICS.
 
 # Core big data and Distributed Computation Frameworkds
 
@@ -188,7 +206,7 @@
 - DBT
 - etc many more (not important)
 
-# soft Skills
+# Soft Skills
 
 - Jira
 - confluence (for documentation)
