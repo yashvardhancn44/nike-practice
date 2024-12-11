@@ -1,5 +1,19 @@
 # 1. code till 12 pm
 
+## 1.1 Nike Actual Questions - query solving
+
+## 1.2 reading and trying to solve in mind the FAANG top 30 questions
+
+## 1.3 Python basic coding questions on language
+
+## 1.4 Python more such logic questions + number questions + array questions + string questions + bitwise Pow
+
+## 1.5 python top 4 question in sliding window, greedy, dynamic algorithsm etc
+
+## Revise everything you have done by reading (SQL + Python(neetcode + leftover topics + basic language based Questions) + coding )
+
+## Revise everything you have learnt
+
 - SQL
   - This will mostly be a scenario based mainly using group by, partitions, windows and rank logic
   - It can be scenario based like sales questions having 3 tables how to find out highest or second highest selling product as per category wise along with geo
@@ -13,6 +27,7 @@
   - kwargs
   - file handling
   - etc most important ones
+  - errors
 - Pyspark
 - Airflow
 
@@ -33,6 +48,10 @@
 - It can be scenario based like sales questions having 3 tables how to find out highest or second highest selling product as per category wise along with geo
 
 # 3. Cisco Project experience - (read end to end - know all points - second highest priority after)
+
+# 4. Heena Mallick knowledge
+
+## 5. Read also on AWS basics (and everything that can be asked in interveiw from heena point of view.)
 
 # top 10 questions +10+10(t:30) for each topic (first focus on JD) (second on resume) - REVISE 3 TIMES
 

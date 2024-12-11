@@ -104,6 +104,8 @@
   - Range between
   - rows between
 
+### recursive queries - simple example
+
 ### VIews, Materialized Views, Triggers
 
 ### Triggers
@@ -122,6 +124,8 @@
 
 ### COMBINATION QUESTIONS INVOLVING MULTIPLE TOPICS - DIFFICULT LEVEL WHICH IS VERY FREQUENTLY ASKED IN DATA ENGINEER INTERVIEW.
 
+### working with dates
+
 ### ETC IMPORTANT TOPICS.
 
 # Core big data and Distributed Computation Frameworkds
@@ -129,6 +133,7 @@
 - Haddop and Hive
 - Sqoop: move data from MySQL to HDFS and ViceVersa
 - Spark: batch Processing and SparkStreaming
+- **how spark achieves stream processing????**
 - Flint: stream processing
 - Beam: stream processing
 - DataBricks: Platform built on top of Spark; Pipeline and Workflows.
