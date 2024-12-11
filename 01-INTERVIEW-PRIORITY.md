@@ -1,4 +1,4 @@
-# code till 12 pm
+# 1. code till 12 pm
 
 - SQL
   - This will mostly be a scenario based mainly using group by, partitions, windows and rank logic
@@ -6,31 +6,96 @@
 - Python DSA
   - check logic building ability
 - Python topics
+  - important methods that is most commonly used in solving DSA problems in interview
+  - top 7 + 7 + 7 + 7 (tricky code snippets testing python knowledge)
+  - lambda
+  - try except
+  - kwargs
+  - file handling
+  - etc most important ones
 - Pyspark
 - Airflow
 
-# Akash Advice (start reading from 1pm)
+# 2. Akash Advice (start reading from 1pm)
 
 - spark and its architecture and some tuning process
   - mainly focus on architecture and framework of spark
+  - spark archietcture vidoe (non raja one)
   - raja engineering (topics notes)
   - data Engineering - Darshan Parmil topics based notes
 - about framework and one SQL question along with one python logic building code
 - lakehouse features and delta importance
-- Now here everything on databricks
+- Now here everything on databricks (microsoft link + )
 - This will mostly be a scenario based mainly using group by, partitions, windows and rank logic
 - Airflow as a scheduler they rarely ask
 - Few basic questions you can aspect from streaming
 - Bronze, silver and gold level architecture
 - It can be scenario based like sales questions having 3 tables how to find out highest or second highest selling product as per category wise along with geo
 
+# 3. Cisco Project experience - (read end to end - know all points - second highest priority after)
+
+# top 10 questions +10+10(t:30) for each topic (first focus on JD) (second on resume) - REVISE 3 TIMES
+
+- https://chatgpt.com/c/6758de8c-50f8-8010-a635-31d223d7f3c8
+
+## spark get top 100
+
+## top 50 for JD keywords based topics dataengineering, dataPipeline, dataEngineerconcepts(even more---70), SQL, Database, Kafka, etc)
+
+## later go and read top 10 +10+10 asked in FAANG interview (4th revision)
+
+## later go and read top 10 +10+10 asked in interview for data engineer (5th revision)
+
 # TODO List & Nike-Keywords-JD
+
+# Pyspark hands on -> 3 people
 
 # topics-notes-list- basic questions
 
 # top 50 questions
 
 # Google Keep -
+
+# Darshan Parmil List:
+
+```
+  0:00 Introduction
+  1:19 What is Data Engineering?
+  17:01 Data Engineering Lifecycle
+  27:17 Data Generation vs Storage
+  30:20 Database Management System
+  34:23 Data Modelling
+  43:48 NoSQL Databases
+  44:49 SQL vs NoSQL
+  46:17 Storage processing (OLAP vs OLTP)
+  57:26 ETL (Extract Transform Load)
+  59:12 Data Engineering Undercurrents
+  1:05:16 Data Architecture 101 Complete Guide
+  1:27:35 Data Warehouse
+  1:33:21 Dimensional Modelling
+  1:40:34 Slowly Changing Dimensions
+  1:47:58 Data Marts
+  1:52:01 Data Lake
+  1:56:30 Data Lake vs Data Warehouse
+  2:01:41 Big Data Landscape
+  2:03:16 Cloud Computing
+  2:09:00 AWS Data Engineering Services
+  2:17:33 Case Study - AWS Data Engineering
+  2:25:57 GCP Data Engineering & Case Study
+  2:27:07 Azure Data Engineering & Case Study
+  2:32:32 Modern Data Architecture
+  2:37:32 Important Skills for Data Engineering
+  2:40:17 Top Data Warehouse Tools
+  2:41:49 Top Data Processing Tools
+  2:42:35 Data Orchestration Tools
+  2:43:33 Modern Data Stack
+  2:45:20 Python, SQL, DW, Spark, Airflow for Data Engineering
+  2:51:40 Data Security
+  2:52:46 Data Masking
+  2:53:41 Important File Formats
+  2:53:49 Suggestion for Part 2
+  2:54:58 Data Engineering Course(14 Projects) Combo Offer
+```
 
 ---
 
